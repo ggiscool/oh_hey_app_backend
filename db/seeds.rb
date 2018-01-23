@@ -35,7 +35,7 @@ Question.create([
     category_id: 1
   },
   {
-    content: "Jeff Bezos' networth reached 105 billion dollars in Jnuary 2018m, making him the richest person to ever exist. In 2017, he made approximately $36k/minute.",
+    content: "Jeff Bezos' networth reached 105 billion dollars in January 2018, making him the richest person to ever exist. In 2017, he made approximately $36k/minute.",
     category_id: 1
   },
   {

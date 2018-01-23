@@ -4,7 +4,8 @@ class QuestionsController < ApplicationController
   # GET /questions
   def index
     @questions = Question.all#where(category_id: params[:category_id])
-    render json: {status: 200, questions: questions}
+    # render json: {status: 200, questions: @questions}
+    render json: @questions
   end
 
   # GET /questions/1
