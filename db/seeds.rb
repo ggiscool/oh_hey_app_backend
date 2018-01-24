@@ -240,7 +240,7 @@ Question.create([
     category_id: 6
   },
   {
-    content: "Are your feet tired? Because you've been running through my mind all day",
+    content: "Are your feet tired? Because you've been running through my mind all day.",
     category_id: 6
   },
   {
