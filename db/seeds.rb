@@ -80,7 +80,7 @@ Question.create([
     category_id: 2
   },
   {
-    content: "Did you know, for the 1943 season, because so many players were at war, the Philadelphia Eagles and the PIttsburgh Steelers combined to make 'The Steagles'?",
+    content: "Did you know, for the 1943 season, because so many players were at war, the Philadelphia Eagles and the Pittsburgh Steelers combined to make 'The Steagles'?",
     category_id: 2
   },
   {
@@ -199,19 +199,19 @@ Question.create([
     category_id: 5
   },
   {
-    content: "Which Hogwarts house would you be in?",
+    content: "Which Muppet to you feel like you'd get along with best?",
     category_id: 5
   },
   {
-    content: "Which Hogwarts house would you be in?",
+    content: "If you won the lottery would you help your friends and family or change your number?",
     category_id: 5
   },
   {
-    content: "Which Hogwarts house would you be in?",
+    content: "Pizza or calzones?",
     category_id: 5
   },
   {
-    content: "Which Hogwarts house would you be in?",
+    content: "Uber or Lyft?",
     category_id: 5
   },
   #Non-creepy Pick-up Lines
