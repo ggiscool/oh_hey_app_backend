@@ -19,7 +19,7 @@ class FavoritesController < ApplicationController
     @favorite = Favorite.new(favorite_params)
 
     if @favorite.save
-      render json: @favorite, status: :created, location: @favorite
+      render json: @favorite, status: :created, location: @favorites
     else
       render json: @favorite.errors, status: :unprocessable_entity
     end
@@ -47,6 +47,6 @@ class FavoritesController < ApplicationController
 
     # Only allow a trusted parameter "white list" through.
     def favorite_params
-      params.require(:favorite).permit(:user_id, :question_id)
+      params.require(:favorite).permit(:user_id, :question_id, :isliked)
     end
 end
