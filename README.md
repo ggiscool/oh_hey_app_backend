@@ -15,13 +15,13 @@
   I used mainly Javascript and Ruby on Rails to make a single-page web application. I wanted to make a fun app that was also practical, simple, and easy to use.
 
 ### Technical Difficulties
-  We had a good deal of trouble perfecting the authentication process, deploying to Heroku, allowing users to upvote an answer only once, and keeping the site one page. We worked through all issues as a team and triumphed over adversity.
+  I had a good deal of trouble getting my heart-shaped "favorite button to change to red when a question or fact is liked, and staying red for only favorites liked by the user who is signed in. So many apps, like Instagram and Pinterest have this same functionality so I didn't think it would take me 2 full days to figure out with help from multiple classmates and TAs.
 
 ### Future Implementations
-  In the future, I would like to be able to have a question/fact submission functionality, where they can be approved before posting.
+  In the future, I would like to be able to have a question/fact submission functionality, where they can be approved before posting. I would also like to make the app compatible with smart watches, for seamless usage. I would also like to make my app fully responsive.
 
 ### Tech Used
-  - HTML, CSS, JavaScript, Express.js, Angular.js, Node.js, JSON Postgres, Ruby and Rails.
+  - HTML, CSS, JavaScript, Express.js, Angular.js, Node.js, PostgreSQL, Ruby and Rails.
   - Gems:ruby, rails, pg, puma, bcrypt, jwt, dotenv-rails, bootsnap, rack-cors, byebug, awesome_print, listen, spring, spring-watcher-listen.
   - Atom for text-editing.
   - Postman for testing.
